@@ -8,6 +8,7 @@ import java.util.Arrays;
 
 public class Game {
 
+    //this is the game functionality
     private final String fileName = "scores.txt";
     Player players[];
     Dices dices;

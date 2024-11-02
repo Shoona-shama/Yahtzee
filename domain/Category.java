@@ -2,6 +2,8 @@ package domain;
 
 public class Category {
 
+    //the category structure in itself
+
     private String name;
 
     private int value;

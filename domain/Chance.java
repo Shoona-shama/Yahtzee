@@ -2,6 +2,8 @@ package domain;
 
 public class Chance extends Category{
 
+    //this category is random
+
     public Chance() {
         super("Chance", 1, "Any combination");
         // TODO Auto-generated constructor stub

@@ -1,5 +1,6 @@
 package domain;
 
+// a additional external category to our game
 public class R2D2 extends Category {
     public R2D2() {
         super("R2D2", 2, "1 8 2 4 2");

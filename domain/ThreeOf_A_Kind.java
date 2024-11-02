@@ -2,6 +2,8 @@ package domain;
 
 public class ThreeOf_A_Kind extends Category {
 
+    //the category is also custom
+
     public ThreeOf_A_Kind() {
         super("Three Of A Kind", 3, "At least three dice the same");
         // TODO Auto-generated constructor stub

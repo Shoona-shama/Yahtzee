@@ -5,6 +5,7 @@ import facade.Game;
 import java.util.Scanner;
 import java.util.Arrays;
 public class GameUi {
+    //the game user interface
 
     public static void main(String[] args) {
         Game gameController;

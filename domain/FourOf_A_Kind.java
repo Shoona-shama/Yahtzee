@@ -1,6 +1,8 @@
 package domain;
 
 public class FourOf_A_Kind extends Category{
+
+    //the category is also custom
     public FourOf_A_Kind() {
         super("Four Of A Kind", 4, "At least four dice the same");
         // TODO Auto-generated constructor stub

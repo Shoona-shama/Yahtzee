@@ -1,5 +1,7 @@
 package domain;
 
+//the chosen game category by the player
+
 public class CategoryBlock {
     public Category categories[] ;
     public CategoryBlock(int diceSides) {

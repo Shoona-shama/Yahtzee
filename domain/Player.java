@@ -3,6 +3,7 @@ package domain;
 import java.time.LocalDate;
 
 public class Player {
+    //this is our players wich can be more than one
 
     private String name;
     private int score;

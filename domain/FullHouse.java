@@ -1,6 +1,8 @@
 package domain;
 
 public class FullHouse extends Category {
+
+    //the category is also custom
     public FullHouse() {
         super("Full House", 3, "Three of one number and two of another");
     }

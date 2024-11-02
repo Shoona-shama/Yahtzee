@@ -1,6 +1,7 @@
 package domain;
 
 public class Yahtzee extends Category {
+    //the category is also custom
 
     public Yahtzee() {
         super("Yahtzee", 5, "All five dice the same");

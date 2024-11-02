@@ -1,6 +1,7 @@
 package domain;
 
 public class LargeStraight extends Category{
+    //the category is also custom
 
     public LargeStraight() {
         super("Large Straight", 5, "Five sequential dice\r"
